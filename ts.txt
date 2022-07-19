@@ -22,6 +22,7 @@
   {"key":"Nfyun","name":"Nf云","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{ "key": "小熊", "name": "小熊TV", "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1, "filterable": 1 },
   { "key":"csp_xpath_lezhutv", "name": "乐猪TV(XPM)", "type":3, "api":"csp_XPathMac", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://dxawi.github.io/6/lztv.json" }, 
 { "key": "555电影", "name": "555电影(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXB/555dy.json" },
 {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dadagui.json"},
@@ -88,7 +89,7 @@
 //{"name":"云海","type":1,"url":"https://php.cloudhai.cn/vip.php?url="},
 //{"name":"人人迷","type":0,"url":"https://jx.blbo.cc:4433/?url="},
 //{"name":"荣兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-//{"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url="},
+{"name":"PRO","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
 {"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
 ],
   "ijk": [
