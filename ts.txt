@@ -1,6 +1,8 @@
 // 配置地址 --> clan://localhost/TVBox/ts.txt
 {
-  "spider": "https://raw.githubusercontent.com/fzsao/tv/main/tss.jar;md5;fe0b90fc1861e6f85d7299926387993a",
+  //"spider": "https://raw.githubusercontent.com/fzsao/tv/main/tss.jar;md5;fe0b90fc1861e6f85d7299926387993a",
+
+"spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
 
 
  "sites": [
@@ -80,10 +82,10 @@
 {"name":"秒播1","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="}, 
 //{"name":"秒播2","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
 //{"name":"左岸1","type":1,"url":"https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url="},
-{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
-{"name":"急速","type":1,"url":"https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url="},
+//{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
+//{"name":"急速","type":1,"url":"https://www.daina.hk/api/?key=RXpzyrbMFYySN0sNps&url="},
 {"name":"蓝影","type":1,"url":"https://vip.nicefamily.club/api/?key=qoryRr3PttvocpOnni&url="},
-{"name":"云海","type":1,"url":"https://php.cloudhai.cn/vip.php?url="},
+//{"name":"云海","type":1,"url":"https://php.cloudhai.cn/vip.php?url="},
 //{"name":"人人迷","type":0,"url":"https://jx.blbo.cc:4433/?url="},
 //{"name":"荣兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 //{"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url="},
