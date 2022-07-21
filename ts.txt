@@ -1,4 +1,5 @@
- "sites": [
+{ // https://t.me/ChuiShuiGe
+  "sites": [
     {
       "key": "360",
       "name": "360",
@@ -17,7 +18,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+    {
+      "key": "bdys",
+      "name": "哔嘀(磁力测试)",
+      "type": 3,
+      "api": "csp_XPbd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"
+    },
     {
       "key": "小宝影院",
       "name": "小宝影院",
@@ -45,7 +55,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   //{
+    {
       "key": "Olevod",
       "name": "Olevod",
       "type": 3,
@@ -81,7 +91,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  //{
+    {
       "key": "Nfyun",
       "name": "Nf云",
       "type": 3,
@@ -90,7 +100,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  //{
+    {
       "key": "小熊",
       "name": "小熊TV",
       "type": 3,
@@ -99,8 +109,36 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
-  
+    {
+      "key": "9E03",
+      "name": "9E03",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "555电影",
+      "name": "555电影(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXB/555dy.json"
+    },
+    {
+      "key": "剧白白",
+      "name": "剧白白(XPF)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXP/jubaibai.json"
+    },
     {
       "key": "Kuaikan",
       "name": "快看",
@@ -137,42 +175,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-  {
-      "key": "555电影",
-      "name": "555电影(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXB/555dy.json"
-    },
-    {
-      "key": "剧白白",
-      "name": "剧白白(XPF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/sahuidalang/xbiubiu/main/MaooXP/jubaibai.json"
-    },
-
-//{ "key":"csp_xpath_lezhutv", "name": "乐猪TV(XPM)", "type":3, "api":"csp_XPathMac", "searchable":1, "quickSearch":1, "filterable":0, "ext":"https://dxawi.github.io/6/lztv.json" }, 
-  //{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/厂长资源-蓝光.json"},
-//{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/在线之家.json"},
-{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/LIBVIO.json"},
-//{"key":"csp_biubiu_COKEMV","name":"COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/COKEMV.json"},
-{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/555电影.json"},
-{"key":"csp_biubiu_乐猪影视","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/乐猪影视.json"},
-{"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/口袋影院.json"},
-{"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/骚火电影.json"},
-{"key":"csp_biubiu_完美看看影视","name":"完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/完美看看影视.json"},
-{"key":"csp_xpath_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/bttwoo.json"},
-//{"key":"csp_xpath_wanmeikk","name":"完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/wanmeikk.json"},
-//{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/saohuotv2.json"},
-
     {
       "key": "Bili",
       "name": "B站",
@@ -223,9 +225,6 @@
       "filterable": 0,
       "ext": "ad3c78559a494bde814f1a6c8c40db51"
     }
-
-//{"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0}
-
   ],
   "lives": [
     {
@@ -259,11 +258,45 @@
       "type": 2,
       "url": "Sequence"
     },
-   {"name":"秒播1","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="}, 
-   {"name":"蓝影","type":1,"url":"https://vip.nicefamily.club/api/?key=qoryRr3PttvocpOnni&url="},
-{"name":"PRO","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
-{"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
-
+    {
+      "name": "龙虾",
+      "type": 1,
+      "url": "http://106.55.234.91:4433/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "qiyi",
+          "mgtv",
+          "youku",
+          "letv",
+          "sohu",
+          "xigua",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "Dalvik/2.1.0"
+        }
+      }
+    },
+    {
+      "name": "Web解析",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "qq",
+          "奇艺"
+        ]
+      }
+    },
     {
       "name": "爱豆解析",
       "type": 0,
@@ -509,6 +542,4 @@
     "cms.qdwght.com"
   ],
   "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar"
-  //"spider": "https://raw.githubusercontent.com/fzsao/tv/main/tss.jar;md5;fe0b90fc1861e6f85d7299926387993a"
-
 }
