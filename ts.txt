@@ -89,11 +89,11 @@
       "name": "冰豆",
       "type": 0,
       "url": "https://bd.jx.cn/?url="
-    }
+    },
      {
       "name": "Web解析",
       "type": 0,
-      "url": "https://chaxun.truechat365.com/?url="}
+      "url": "https://chaxun.truechat365.com/?url="},
 {"name":"PRO","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
 {"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
 ],
