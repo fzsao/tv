@@ -80,17 +80,17 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"秒播1","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="}, 
 {"name":"蓝影","type":1,"url":"https://vip.nicefamily.club/api/?key=qoryRr3PttvocpOnni&url="},
-{
+//{
       "name": "爱豆",
       "type": 0,
       "url": "https://jx.aidouer.net/?url="
     },
-    {
+   // {
       "name": "冰豆",
       "type": 0,
       "url": "https://bd.jx.cn/?url="
     },
-     {
+     //{
       "name": "Web解析",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url="},
