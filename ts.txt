@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/ts.txt
 {
  // "spider": "https://raw.githubusercontent.com/fzsao/tv/main/tss.jar;md5;fe0b90fc1861e6f85d7299926387993a",
-"spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
+   "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
  //"spider": "clan://TVBox/tss.jar",
 
  "sites": [
@@ -14,24 +14,6 @@
  {"key":"csp_LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 //{"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
   {"key":"360","name":"360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-  {
-      "key": "Ikan",
-      "name": "爱看",
-      "type": 3,
-      "api": "csp_IKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-      {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 //{"key":"小宝影院","name":"小宝","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 // {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
@@ -72,7 +54,7 @@
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
   {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
 
-// {"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0}
+ {"key":"博天堂","name":"$🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0}
 
  
   
@@ -107,7 +89,6 @@
 {"name":"荣兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 //{"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url="},
 {"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
- 
 ],
   "ijk": [
     {
