@@ -101,17 +101,7 @@
 //{"name":"人人迷","type":0,"url":"https://jx.blbo.cc:4433/?url="},
 {"name":"荣兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 //{"name":"王牌","type":1,"url":"https://za.kuanjv.com/?url="},
-{"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="},
- {
-      "name": "爱豆解析",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "冰豆解析",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url="
-    }
+{"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
 
 ],
   "ijk": [
