@@ -91,7 +91,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"秒播1","type":1,"url":"https://jx.bozrc.com:4433/player/?url="}, 
+{"name":"秒播1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}, 
 //{"name":"秒播2","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
 //{"name":"左岸1","type":1,"url":"https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url="},
 //{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
