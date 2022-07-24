@@ -94,11 +94,7 @@
 { "name": "2", "type": 1, "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
        
 { "name": "搬运工","type": 0, "url": "https://43.142.151.188/?url="},
-{"name":"蓝影","type":1,"url":"https://vip.nicefamily.club/api/?key=qoryRr3PttvocpOnni&url="},
-
-{"name":"荣兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-
-{"name":"江湖","type":1,"url":"https://jhjx.kuanjv.com/newky/?url="}
+{"name":"蓝影","type":1,"url":"https://vip.nicefamily.club/api/?key=qoryRr3PttvocpOnni&url="}
 
 ],
   "ijk": [
