@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/ts.txt
 {
- // "spider": "https://raw.githubusercontent.com/fzsao/tv/main/tss.jar;md5;fe0b90fc1861e6f85d7299926387993a",
-   "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
+ "spider": "https://raw.githubusercontent.com/fzsao/tv/main/tss.jar",
+  // "spider": "https://gitea.com/Pandora2277/TV/raw/branch/main/custom_spider.jar",
  //"spider": "clan://TVBox/tss.jar",
 
  "sites": [
